@@ -1,4 +1,3 @@
-// src/main/java/com/unicesumar/Main.java
 package com.unicesumar;
 
 import com.unicesumar.entities.Product;
